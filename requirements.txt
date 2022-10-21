@@ -1,0 +1,5 @@
+numpy
+Cython
+transformers==4.23.0
+torch-struct==0.5
+networkx==2.8
